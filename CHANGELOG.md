@@ -8,9 +8,11 @@ Cyrus Gonzalez
 Johnathan Tinajero
 ### Added
 ...
-schematic.jpg
+layout.jpg
 ### Changed
 ...
 schematic
+schematic.jpg
 ### Removed
 ...
+n/a
